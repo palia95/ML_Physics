@@ -1,0 +1,13 @@
+The aim of the project is to create a valid network behaviour prediction model based on all the different wireless communications protocols quality indexes
+ collected together with the main drone parameters (e.g., altitude, speed, attitude, etc),
+ in order to handle in a better way the network swithing during BVLOS flight. 
+
+
+This folder contains all the ML project files, in particular:
+- ML-Project.ipynb: the real ML project with all the libraries needed and code;
+- LTE.json: a file containing all the LTE network data;
+- Ping.json: a file containing all the Ping test results;
+- SPEED.json: a file containing all the Speedtest test results;
+- LORAWAN.json: a file containing all the LoRaWAN networkdata;
+
+
