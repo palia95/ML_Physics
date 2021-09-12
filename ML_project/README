@@ -9,5 +9,6 @@ This folder contains all the ML project files, in particular:
 - Ping.json: a file containing all the Ping test results;
 - SPEED.json: a file containing all the Speedtest test results;
 - LORAWAN.json: a file containing all the LoRaWAN networkdata;
+- netev.jpeg: an illustration of the system mounted on the drone.
 
 
